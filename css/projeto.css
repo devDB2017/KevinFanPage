@@ -1,0 +1,165 @@
+@import url(https://fonts.googleapis.com/css?family=Iceland);
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.logo{
+	 width:700px;
+	 height: 100px;
+	 margin-left:25%;
+}
+
+.imagem{
+
+	height:300px;
+	width:300px;
+    margin-left: 17%;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    border:20px;
+    box-shadow: 5px 5px 40px 5px #000;
+    padding: 5px 5px;
+   
+    
+}
+.imagem:hover{
+	opacity: 0.7 ;
+	cursor: pointer;
+	border-radius: 400px;
+    
+}
+
+.imagem01{  
+	height:400px;
+	width:1343px;
+
+
+
+}
+
+
+
+}
+h3{ height: 40px;
+	width: 380px;
+	border: 3px solid #2f5e8e;
+	margin-left: 36%;
+    margin-top: 40px;
+	background: url(../img/m/bk1.jpg);
+	opacity: 1.0;
+	text-align: center;
+	padding:5px; 
+	color: #d9f2e3;
+	}
+h3:hover{
+	color:#000 ;
+	background: url(../img/m/b.jpg);
+
+
+}
+
+h1{height: 40px;
+	width: 380px;
+	border: 3px solid #2f5e8e;
+	margin-left: 34%;
+    margin-top: 40px;
+	background: url(../img/m/bk1.jpg);
+	opacity: 1.0;
+	text-align: center;
+	padding:5px; 
+	color:#ccc;
+	margin-bottom: 40px
+	
+}
+h1:hover{ 
+	
+    color: #000 ;
+	background: url(../img/m/b.jpg);
+	}
+
+
+}
+h4.hover:{ 
+	font-size:350%;
+	color: #fff;
+
+
+}
+
+div{ 
+	width: 380px; /*para ocupar o espaço inteiro do navegador*/
+	border: 5px solid #2f5e8e;
+	margin-left: 34%;
+    margin-top: 40px;
+	
+	opacity: 1.0;
+	text-align: center;
+	padding:5px; /*obs: padding aumenta o espaço da caixa;*/
+	background-color: rgba(0, 0, 0, 1);
+    background: rgba(0, 0, 0, 1);
+    color: rgba(0, 0, 0, 1);
+	margin-bottom: 60px;
+	font-family: 'Iceland', cursive;
+	color: #ccc;
+
+}
+.h1{
+	height: 60px;
+	width: 628px;
+	border: 3px solid #2f5e8e;
+	margin-left:25%;
+	background: url(../img/m/bk1.jpg);
+	opacity: 1.0;
+	text-align: center;
+	padding:5px; 
+	color:#ccc;
+	margin-bottom: 0%;
+}
+.imagem1{
+
+	height:300px;
+	width:300px;
+    margin-left:4%;
+    border:20px;
+    box-shadow: 5px 5px 40px 5px #000;
+    padding: 5px 5px;
+   
+    
+}
+.imagem1:hover{
+	opacity: 0.8 ;
+	cursor: pointer;
+	
+}
+.video{
+	margin-left: 20%;
+	padding-left: 70px
+}
+.audio{
+	margin-left: 12%;
+	padding-left: 70px;
+    margin-top:0px;
+
+}
+.imagem0{
+	height:300px;
+	width:300px;
+    margin-left: 17%;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    border:20px;
+    box-shadow: 5px 5px 40px 5px #000;
+    padding: 5px 5px; 
+}
+
+.imagem0:hover{
+	opacity: 0.9 ;
+	border-radius:20px;
+	
+}
+body{
+  background: url(../img/m/fundo.jpg) center center fixed;
+  background-size:cover;
+ font-family: 'Iceland', cursive;
+}
